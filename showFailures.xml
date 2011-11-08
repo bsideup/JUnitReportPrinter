@@ -1,0 +1,1 @@
+<project name="JUnitReportPrinter" basedir=".">	<scriptdef name="showFailures" src="showFailures.js" language="javascript" >		<attribute name="xmlfile" />	</scriptdef></project>
